@@ -1,0 +1,24 @@
+[Added Associations]
+application/octet-stream=nvim.desktop;
+application/pdf=okularApplication_pdf.desktop;org.gnome.Evince.desktop;nvim.desktop;
+application/vnd.apple.mpegurl=org.kde.elisa.desktop;
+application/x-shellscript=org.kde.kate.desktop;org.kde.kwrite.desktop;org.xfce.mousepad.desktop;kitty-open.desktop;writer.desktop;nvim.desktop;
+audio/x-mpegurl=org.kde.elisa.desktop;
+image/jpeg=org.gnome.Loupe.desktop;
+image/png=org.gnome.Loupe.desktop;
+image/svg+xml=org.gnome.Loupe.desktop;
+video/mp4=mpv.desktop;
+video/x-matroska=mpv.desktop;umpv.desktop;nvim.desktop;
+
+[Default Applications]
+application/octet-stream=nvim.desktop;
+application/pdf=okularApplication_pdf.desktop;
+application/vnd.apple.mpegurl=org.kde.elisa.desktop;
+application/x-shellscript=org.kde.kate.desktop;
+audio/x-mpegurl=org.kde.elisa.desktop;
+image/jpeg=org.gnome.Loupe.desktop
+image/png=org.gnome.Loupe.desktop
+image/svg+xml=org.gnome.Loupe.desktop
+video/mp4=mpv.desktop;
+video/x-matroska=mpv.desktop;
+x-scheme-handler/freetube=freetube.desktop

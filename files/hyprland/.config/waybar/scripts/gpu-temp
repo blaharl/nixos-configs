@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+gpu_temp=$(sensors amdgpu-pci-* | awk '/^edge/ {print $2}')
+
+echo "${gpu_temp}" | cut -c 2-
+
