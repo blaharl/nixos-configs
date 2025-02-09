@@ -19,3 +19,6 @@ files/common/.local/
 files/common/FreeTube/
 files/common/home/
 private/
+system/common/private.nix
+system/desktop/hardware-configuration.nix
+system/laptop/hardware-configuration.nix
